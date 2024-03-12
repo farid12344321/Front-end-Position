@@ -1,0 +1,37 @@
+
+.slider{
+    width: 40.8%;
+    height: 50%;
+    position: relative;
+}
+
+
+.time-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #147782;
+    left: 0;
+    top:370px;  
+    height: 43px;
+    width: 225px;
+    margin-bottom: 100px;
+    position: absolute;
+}
+
+.time-box span{
+    margin-left: 13px;
+    font-size: 22px;
+    color: white;
+}
+
+.box{
+    padding: 10px;
+    margin-top: -24px;
+    background-color: black;
+}
+
+
+.box h1{
+    color: white;
+}
